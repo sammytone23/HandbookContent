@@ -20,7 +20,7 @@
 
 ### Mouse
 - Diagram
-    - ![Mouse Diagram]('mouse-personal-computer.jpg')[^1]
+    - ![Mouse Diagram]('mouse-personal-computer.jpg') [1]
 - Definition
     - How to use it:
         - move along surface, depress LMOUSE and RMOUSE, turn scrollwheel
@@ -40,7 +40,7 @@
 
 ### Data Projector
 - Diagram
-    - ![Data Projector Diagram]('working-of-a-3LCD-projector.png') [^3]
+    - ![Data Projector Diagram]('working-of-a-3LCD-projector.png') [3]
 - Definition
     - How to use it:
         - To use a product like this, you must have:
@@ -53,8 +53,8 @@
 
 ### Speaker
 - Diagram
-    - ![Speaker Diagram]('Speaker-Diagram.png')[^4]
-    - ![Audio Jack Diagram]('AudioJackDiagram.jpg')[^5]
+    - ![Speaker Diagram]('Speaker-Diagram.png') [4]
+    - ![Audio Jack Diagram]('AudioJackDiagram.jpg') [5]
 - Definition
     - How to use it:
         - To use a product like this you must have:
@@ -69,7 +69,7 @@
 
 ### CPU (Central Processing Unit)
 - Diagram
-    - ![CPU Diagram]('481px-ABasicComputer.gif')[^6]
+    - ![CPU Diagram]('481px-ABasicComputer.gif') [6]
 - Definition
     - How to use it:
         - In the frame of reference of using a CPU without connecting it to a computer, you would need to send signals in through wiring, in the form of binary strings, and take an output in a similar form.
@@ -78,7 +78,7 @@
 
 ### GPU (Graphics Processing Unit)
 - Diagram
-    - ![GPU Diagram]('1200px-Generic_block_diagram_of_a_GPU.svg.png')[^7]
+    - ![GPU Diagram]('1200px-Generic_block_diagram_of_a_GPU.svg.png') [7]
 - Definition
     - How to use it:
         - 
@@ -89,7 +89,7 @@
 
 ### HDD (Hard Disk Drive)
 - Diagram
-    - ![HDD Diagram]('hdd-diagram.jpg')[^8]
+    - ![HDD Diagram]('hdd-diagram.jpg') [8]
 - Definition
     - How to use it:
         - 
@@ -98,7 +98,7 @@
 
 ### RAM (Random Access Memory)
 - Diagram
-    - ![RAM Diagram]('Memory-RAM-and-Slot-Diagram.png')[^9]
+    - ![RAM Diagram]('Memory-RAM-and-Slot-Diagram.png') [9]
 - Definition
     - How to use it:
         - 
@@ -109,22 +109,22 @@
 
 ## References
 
-[^1]: Encyclopedia Britannica. 2020. Computer Peripheral | Definition & Examples. [online] Available at: <https://www.britannica.com/technology/input-output-device> [Accessed 11 March 2020].
+[1]: Encyclopedia Britannica. 2020. Computer Peripheral | Definition & Examples. [online] Available at: <https://www.britannica.com/technology/input-output-device> [Accessed 11 March 2020].
 
-[^2]: 
+[2]: 
 
-[^3]: En.wikipedia.org. 2020. Plasma Display. [online] Available at: <https://en.wikipedia.org/wiki/Plasma_display# /media/File:Plasma-display-composition.svg> [Accessed 11 March 2020].
+[3]: En.wikipedia.org. 2020. Plasma Display. [online] Available at: <https://en.wikipedia.org/wiki/Plasma_display# /media/File:Plasma-display-composition.svg> [Accessed 11 March 2020].
 
-[^4]: Centerpointaudio.com. 2020. How Speakers Work. [online] Available at: <http://www.centerpointaudio.com/howspeakerswork.aspx> [Accessed 11 March 2020].
+[4]: Centerpointaudio.com. 2020. How Speakers Work. [online] Available at: <http://www.centerpointaudio.com/howspeakerswork.aspx> [Accessed 11 March 2020].
 
-[^5]: Chick, C., 2020. Understanding TRRS And Audio Jacks - Cable Chick Blog. [online] Cablechick.com.au. Available at: <https://www.cablechick.com.au/blog/understanding-trrs-and-audio-jacks/> [Accessed 11 March 2020].
+[5]: Chick, C., 2020. Understanding TRRS And Audio Jacks - Cable Chick Blog. [online] Cablechick.com.au. Available at: <https://www.cablechick.com.au/blog/understanding-trrs-and-audio-jacks/> [Accessed 11 March 2020].
 
-[^6]:En.wikipedia.org. 2020. Computer Architecture. [online] Available at: <https://en.wikipedia.org/wiki/Computer_architecture> [Accessed 11 March 2020].
+[6]:En.wikipedia.org. 2020. Computer Architecture. [online] Available at: <https://en.wikipedia.org/wiki/Computer_architecture> [Accessed 11 March 2020].
 
-[^7]:En.wikipedia.org. 2020. Graphics Processing Unit. [online] Available at: <https://en.wikipedia.org/wiki/Graphics_processing_unit> [Accessed 11 March 2020].
+[7]:En.wikipedia.org. 2020. Graphics Processing Unit. [online] Available at: <https://en.wikipedia.org/wiki/Graphics_processing_unit> [Accessed 11 March 2020].
 
-[^8]: CCM. 2020. Hard Drive. [online] Available at: <https://ccm.net/contents/385-hard-drive> [Accessed 12 March 2020].
+[8]: CCM. 2020. Hard Drive. [online] Available at: <https://ccm.net/contents/385-hard-drive> [Accessed 12 March 2020].
 
-[^9]: Yip, J., 2020. Memory RAM And Slot Diagram. [online] Johnsonyip.com. Available at: <http://johnsonyip.com/wordpress/2010/07/27/cleaning-troubleshooting-dirty-ram-electronic-gold-contacts-with-clean-clothe-and-rubbing-alcohol/memory-ram-and-slot-diagram/> [Accessed 14 March 2020].
+[9]: Yip, J., 2020. Memory RAM And Slot Diagram. [online] Johnsonyip.com. Available at: <http://johnsonyip.com/wordpress/2010/07/27/cleaning-troubleshooting-dirty-ram-electronic-gold-contacts-with-clean-clothe-and-rubbing-alcohol/memory-ram-and-slot-diagram/> [Accessed 14 March 2020].
 
 Cite This For Me. 2020. Save Time And Improve Your Marks With Citethisforme, The No. 1 Citation Tool. [online] Available at: <https://www.citethisforme.com/> [Accessed 10 March 2020].
