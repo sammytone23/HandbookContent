@@ -40,7 +40,7 @@
 
 ### Data Projector
 - Diagram
-    - ![Data Projector Diagram](morking-of-a-3LCD-projector.png) [3]
+    - ![Data Projector Diagram](working-of-a-3LCD-projector.png) [3]
 - Definition
     - How to use it:
         - To use a product like this, you must have:
@@ -53,8 +53,8 @@
 
 ### Speaker
 - Diagram
-    - ![Speaker Diagram](mpeaker-Diagram.png) [4]
-    - ![Audio Jack Diagram](mudioJackDiagram.jpg) [5]
+    - ![Speaker Diagram](Speaker-Diagram.png) [4]
+    - ![Audio Jack Diagram](AudioJackDiagram.jpg) [5]
 - Definition
     - How to use it:
         - To use a product like this you must have:
@@ -69,7 +69,7 @@
 
 ### CPU (Central Processing Unit)
 - Diagram
-    - ![CPU Diagram](m81px-ABasicComputer.gif) [6]
+    - ![CPU Diagram](481px-ABasicComputer.gif) [6]
 - Definition
     - How to use it:
         - In the frame of reference of using a CPU without connecting it to a computer, you would need to send signals in through wiring, in the form of binary strings, and take an output in a similar form.
@@ -78,7 +78,7 @@
 
 ### GPU (Graphics Processing Unit)
 - Diagram
-    - ![GPU Diagram](m200px-Generic_block_diagram_of_a_GPU.svg.png) [7]
+    - ![GPU Diagram](1200px-Generic_block_diagram_of_a_GPU.svg.png) [7]
 - Definition
     - How to use it:
         - 
@@ -89,7 +89,7 @@
 
 ### HDD (Hard Disk Drive)
 - Diagram
-    - ![HDD Diagram](mdd-diagram.jpg) [8]
+    - ![HDD Diagram](hdd-diagram.jpg) [8]
 - Definition
     - How to use it:
         - 
