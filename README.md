@@ -1,6 +1,6 @@
-#Hardware tutorial handbook
+# Hardware tutorial handbook
 
-##Table of contents:
+## Table of contents:
 
 - Input
     - Mouse
@@ -16,9 +16,9 @@
     - RAM
 - Trends
 
-##Input
+## Input
 
-###Mouse
+### Mouse
 - Diagram
     - ![Mouse Diagram]('mouse-personal-computer.jpg')[^1]
 - Definition
@@ -27,7 +27,7 @@
     - What it does:
         - translates movement along a surface to movement of the cursor on a computer, and presses of LMOUSE and RMOUSE to left and right clicks, and movement of scrollwheel to scrolling. Sometimes includes other buttons for macros
 
-###Keyboard
+### Keyboard
 - Diagram
     - 
 - Definition
@@ -36,9 +36,9 @@
     - What it does:
         - Each key is it's own key switch  that when depressed, sends a signal to the control chip inboard the keyboard, which then sends it to the computer it is connected to.
 
-##Output
+## Output
 
-###Data Projector
+### Data Projector
 - Diagram
     - ![Data Projector Diagram]('working-of-a-3LCD-projector.png') [^3]
 - Definition
@@ -51,7 +51,7 @@
     - What it does:
         - One lamp projects light into Dichronic mirrors tha separate the light into colours, then these colours are reflected into LCD screens that change the brightness, then theese streams are combined using a prism
 
-###Speaker
+### Speaker
 - Diagram
     - ![Speaker Diagram]('Speaker-Diagram.png')[^4]
     - ![Audio Jack Diagram]('AudioJackDiagram.jpg')[^5]
@@ -65,9 +65,9 @@
     - What it does:
         - Wattage into the speaker goes through a copper cable surrounding a ring inside a magetised ring, and outside an oppositely magnetised pole. This causes the ring to move up and down, moving a diaphragm which moves the air in sound waves.
 
-##Processors
+## Processors
 
-###CPU (Central Processing Unit)
+### CPU (Central Processing Unit)
 - Diagram
     - ![CPU Diagram]('481px-ABasicComputer.gif')[^6]
 - Definition
@@ -76,7 +76,7 @@
     - What it does:
         - 
 
-###GPU (Graphics Processing Unit)
+### GPU (Graphics Processing Unit)
 - Diagram
     - ![GPU Diagram]('1200px-Generic_block_diagram_of_a_GPU.svg.png')[^7]
 - Definition
@@ -85,9 +85,9 @@
     - What it does:
         - 
 
-##Storage
+## Storage
 
-###HDD (Hard Disk Drive)
+### HDD (Hard Disk Drive)
 - Diagram
     - ![HDD Diagram]('hdd-diagram.jpg')[^8]
 - Definition
@@ -96,7 +96,7 @@
     - What it does:
         - 
 
-###RAM (Random Access Memory)
+### RAM (Random Access Memory)
 - Diagram
     - ![RAM Diagram]('Memory-RAM-and-Slot-Diagram.png')[^9]
 - Definition
@@ -105,15 +105,15 @@
     - What it does:
         - 
 
-##Trends
+## Trends
 
-##References
+## References
 
 [^1]: Encyclopedia Britannica. 2020. Computer Peripheral | Definition & Examples. [online] Available at: <https://www.britannica.com/technology/input-output-device> [Accessed 11 March 2020].
 
 [^2]: 
 
-[^3]: En.wikipedia.org. 2020. Plasma Display. [online] Available at: <https://en.wikipedia.org/wiki/Plasma_display#/media/File:Plasma-display-composition.svg> [Accessed 11 March 2020].
+[^3]: En.wikipedia.org. 2020. Plasma Display. [online] Available at: <https://en.wikipedia.org/wiki/Plasma_display# /media/File:Plasma-display-composition.svg> [Accessed 11 March 2020].
 
 [^4]: Centerpointaudio.com. 2020. How Speakers Work. [online] Available at: <http://www.centerpointaudio.com/howspeakerswork.aspx> [Accessed 11 March 2020].
 
