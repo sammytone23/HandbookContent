@@ -72,18 +72,18 @@
     - ![CPU Diagram](481px-ABasicComputer.gif) [6]
 - Definition
     - How to use it:
-        - In the frame of reference of using a CPU without connecting it to a computer, you would need to send signals in through wiring, in the form of binary strings, and take an output in a similar form.
+        - Commands for the CPU are stored in ram, usually with the middle-man of a User Interface.
     - What it does:
-        - 
+        - It makes simple calculations at extremely quick speeds, depending on the hertz of the processor, 1Hz is one calculation per second, 3GHz is 3 billion calculations per second.
 
 ### GPU (Graphics Processing Unit)
 - Diagram
     - ![GPU Diagram](1200px-Generic_block_diagram_of_a_GPU.svg.png) [7]
 - Definition
     - How to use it:
-        - 
+        - Similar to the CPU, Commands for the GPU are stored in the RAM, but the GPU is faster, as it is used for graphics
     - What it does:
-        - 
+        - Makes simple calculations at quicker speeds than the CPU, again depending on the Hertz.
 
 ## Storage
 
@@ -92,18 +92,18 @@
     - ![HDD Diagram](hdd-diagram.jpg) [8]
 - Definition
     - How to use it:
-        - 
+        - to interface with a Hard disk drive, you connect it to a computer, via the plug connection on hte side, then the operating system should recognise it and allow you to interperet the date stored on it.
     - What it does:
-        - 
+        - Hard disk drives store data with magnetism, magnetising and demagnetising tiny sections on the large disc in side the hard drive, the Platter. these strings of magnetised and demagnetised sections represent bits, and come together to represent binary strings. these can then be interpereted into text, or images, or anything else you can see or hear on a computer.
 
 ### RAM (Random Access Memory)
 - Diagram
     - ![RAM Diagram](memory-RAM-and-Slot-Diagram.png) [9]
 - Definition
     - How to use it:
-        - 
+        - RAM is used whenever doing anything on a computer. When opening an executeable, the core files of said program are stored in RAM for faster access, and anything else you do is also stored there.
     - What it does:
-        - 
+        - RAM ,or Random Access Memory, is memory used for the task at hand, and requires the computer to be on to store data. The purpose, and namesake of this device is to be used as fast as possible at any time (__Random__ Access memory).
 
 ## Trends
 
@@ -126,5 +126,9 @@
 [8]: CCM. 2020. Hard Drive. [online] Available at: <https://ccm.net/contents/385-hard-drive> [Accessed 12 March 2020].
 
 [9]: Yip, J., 2020. Memory RAM And Slot Diagram. [online] Johnsonyip.com. Available at: <http://johnsonyip.com/wordpress/2010/07/27/cleaning-troubleshooting-dirty-ram-electronic-gold-contacts-with-clean-clothe-and-rubbing-alcohol/memory-ram-and-slot-diagram/> [Accessed 14 March 2020].
+
+Explain that Stuff. 2020. How Does A Hard Drive Work?. [online] Available at: <https://www.explainthatstuff.com/harddrive.html> [Accessed 17 March 2020].
+
+Explained!, ​., 2020. ​ RAM Explained!. [online] Central Valley Computer Parts. Available at: <https://centralvalleycomputerparts.com/articles/-ram-explained/> [Accessed 17 March 2020].
 
 Cite This For Me. 2020. Save Time And Improve Your Marks With Citethisforme, The No. 1 Citation Tool. [online] Available at: <https://www.citethisforme.com/> [Accessed 10 March 2020].
